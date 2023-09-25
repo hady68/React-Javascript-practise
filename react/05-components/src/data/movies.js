@@ -1,3 +1,4 @@
+// exporting movies array
 export const movies = [
   {
     id: 1,
